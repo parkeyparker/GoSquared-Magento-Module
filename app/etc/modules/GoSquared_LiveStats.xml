@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <GoSquared_LiveStats>
+            <active>true</active>
+            <codePool>local</codePool>
+        </GoSquared_LiveStats>
+    </modules>
+</config> 

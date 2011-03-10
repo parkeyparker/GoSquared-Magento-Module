@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <livestats_adminhtml_livestats_index>
+        <reference name="content">
+            <block type="livestats/adminhtml_livestats" name="livestats" />
+        </reference>
+    </livestats_adminhtml_livestats_index>
+</layout>

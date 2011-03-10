@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+    </default>
+    <livestats_index_index>
+        <reference name="content">
+            <block type="livestats/livestats" name="livestats" template="livestats/livestats.phtml" />
+        </reference>
+    </livestats_index_index>
+</layout> 
